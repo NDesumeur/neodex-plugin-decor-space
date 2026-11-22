@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorspace",
+  "repo": "NDesumeur/neodex-plugin-decor-space",
+  "version": "1.0.0",
+  "sha256": "f20d7015bacc1f6254e8da5eead33a0e4d0a8cedae277e86f9c6ea9d8c381db1",
+  "approvedAt": "2026-11-22T19:05:25.650Z",
+  "neobase": ">=4.1.0",
+  "signature": "pHvy0NSz3E4rzA4W/4DvM1N3gcC2wQwwg+VW6/jgZS/53RsYxu6i8Hv+FtG/np6nR7L8s8sfyNLTpowixVFRDQ=="
+}
